@@ -1,6 +1,6 @@
 #pagebreak()
 #set enum(numbering: "(1)")
-= IV. GIẢI PHÁP ĐỀ XUẤT
+= Chương 4. GIẢI PHÁP ĐỀ XUẤT
 == 1. Tổng quan giải pháp
 Từ các khó khăn đã phân tích ở phần trước, nhóm nhận thấy rào cản lớn nhất khi sinh viên tiếp cận LaTeX thường đến từ việc khó hình dung mối liên hệ giữa cú pháp và kết quả trình bày, đồng thời thiếu một lộ trình nhập môn gắn với nhu cầu thực tế như viết báo cáo, bài tập lớn hay đồ án. Vì vậy, nhóm đề xuất một giải pháp theo hướng thực hành có hướng dẫn, giúp sinh viên có thể bắt đầu nhanh và “dùng được” trong học tập.
 

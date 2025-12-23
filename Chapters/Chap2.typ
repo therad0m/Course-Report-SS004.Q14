@@ -1,5 +1,5 @@
 #pagebreak()
-= II. MỤC TIÊU VÀ PHẠM VI ĐỒ ÁN
+= Chương 2. MỤC TIÊU VÀ PHẠM VI ĐỒ ÁN
 
 == 1. Mục tiêu đồ án
 Đồ án được thực hiện với mục tiêu chính là hỗ trợ sinh viên UIT tiếp cận và làm quen với LaTeX một cách dễ dàng hơn, từ đó có thể từng bước ứng dụng LaTeX vào việc soạn thảo các tài liệu học thuật và kỹ thuật trong quá trình học tập.

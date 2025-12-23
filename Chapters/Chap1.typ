@@ -1,5 +1,6 @@
 #pagebreak()
-= I. GIỚI THIỆU
+
+= Chương 1. GIỚI THIỆU
 Trong quá trình học tập tại Trường Đại học Công nghệ Thông tin – Đại học Quốc gia TP.HCM (UIT), sinh viên thường xuyên phải soạn thảo nhiều loại tài liệu học thuật và kỹ thuật như báo cáo môn học, bài tập lớn, đồ án và luận văn. Các tài liệu này không chỉ yêu cầu nội dung chính xác mà còn đòi hỏi hình thức trình bày rõ ràng, nhất quán và mang tính học thuật cao.
 
 
@@ -8,7 +9,7 @@ Trong quá trình học tập tại Trường Đại học Công nghệ Thông t
   caption: [
     Các loại tài liệu sinh viên UIT thường xuyên soạn thảo
   ]
-)
+) <fig:LoaiTaiLieu>
 
 Hiện nay, Microsoft Word là công cụ soạn thảo văn bản được sử dụng phổ biến nhờ giao diện trực quan và dễ tiếp cận. Tuy nhiên, đối với các tài liệu kỹ thuật dài, có nhiều công thức toán học, bảng biểu và hình minh họa, Word thường gặp hạn chế trong việc kiểm soát định dạng, duy trì tính nhất quán và quản lý cấu trúc tài liệu khi chỉnh sửa.
 
@@ -18,7 +19,7 @@ Mặc dù có nhiều ưu điểm, LaTeX vẫn tạo ra rào cản nhất địn
 #figure(
   image("../Figures/texword.png", width: 50%),
   caption: [
-    Minh họa mối quan hệ giữa mức độ phức tạp của tài liệu\ và công sức cần thiết khi soạn thảo bằng MS Word và LaTeX.
+    Word & LaTeX
   ]
 )
 

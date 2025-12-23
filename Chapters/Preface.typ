@@ -10,21 +10,5 @@ Bên cạnh đó, nhóm xin gửi lời cảm ơn đến các bạn sinh viên �
 
 Do thời gian và kinh nghiệm còn hạn chế, đồ án khó tránh khỏi những thiếu sót nhất định. Nhóm rất mong nhận được sự đóng góp ý kiến từ giảng viên và các bạn sinh viên để có thể tiếp tục hoàn thiện và phát triển nội dung trong tương lai.
 
-#v(1cm)
-#align(center)[
-#table(
-  columns: 3,
-  align: left,
 
-  [*Danh sách thành viên*], [*MSSV*],[*Vai trò*],
-  [Nguyễn Thái Bảo], [24520173],[Nhóm trưởng],
-  [Trần Tuấn Dũng], [24520350],[Thành viên],
-  [Lê Hồ Khánh Linh], [24520958],[Thành viên],
-  [Nguyễn Đông Nguyên], [24521187],[Thành viên],
-  [Nguyễn Đỗ Bảo Uyên], [24521970],[Thành viên],
-  [Nguyễn Thị Quỳnh], [24521510],[Thành viên],
-  [Bích Kim Quyên], [24521497],[Thành viên],
-  [Trịnh Hồ Quỳnh Hương], [24520647],[Thành viên],
-  [Lưu Bích Ngân],[24521128],[Thành viên],
-)
-]
+

@@ -1,5 +1,5 @@
 #pagebreak()
-= III. CƠ SỞ LÝ THUYẾT VÀ BỐI CẢNH LIÊN QUAN
+= Chương 3. CƠ SỞ LÝ THUYẾT VÀ BỐI CẢNH LIÊN QUAN
 == 1. Đặc thù của tài liệu học thuật và kỹ thuật trong môi trường đại học
 
 Trong môi trường đại học, đặc biệt ở các ngành liên quan đến Công nghệ Thông tin, sinh viên thường xuyên phải viết các tài liệu có cấu trúc rõ ràng và yêu cầu trình bày mang tính học thuật. Khác với các văn bản thông thường, tài liệu kỹ thuật thường bao gồm nhiều thành phần phức tạp như: chương/mục nhiều cấp, công thức toán học, code, bảng biểu, hình minh họa, danh mục hình/bảng, trích dẫn tài liệu tham khảo và phụ lục.
